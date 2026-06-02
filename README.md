@@ -25,6 +25,9 @@
 
 **Key Features:**
 Detects phishing websites.
+
 Analyzes website URLs.
+
 Provides real-time prediction results.
+
 Stores detection history
