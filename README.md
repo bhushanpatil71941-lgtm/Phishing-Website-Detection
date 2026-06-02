@@ -2,9 +2,9 @@
 **Phishing Website Detection System**
 **Technologies Used:-**
 
-1)Python
-2)Java
-3)MySQL
+1)Python 
+2)Java 
+3)MySQL 
 
 
 **Project Description:** Developed a Phishing Website Detection System to identify whether a website is legitimate or phishing. The system analyzes the URL and predicts the authenticity of the website. The prediction results and user activity are stored in a MySQL database.
