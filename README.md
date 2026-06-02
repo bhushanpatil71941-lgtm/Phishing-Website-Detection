@@ -1,10 +1,9 @@
 # Phishing-Website-Detection
 **Phishing Website Detection System**
 **Technologies Used:-**
+
 1)Python
-
 2)Java
-
 3)MySQL
 
 
