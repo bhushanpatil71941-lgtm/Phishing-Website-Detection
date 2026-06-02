@@ -14,6 +14,7 @@
 1)The user enters a website URL. 
 
 2)The Java application sends the URL for analysis.
+
 3)Python processes the URL and performs phishing detection.
 
 4)The system predicts whether the website is Phishing or Legitimate.
