@@ -24,6 +24,7 @@
 6)The URL and prediction result are stored in the MySQL database.
 
 **Key Features:**
+
 Detects phishing websites.
 
 Analyzes website URLs.
